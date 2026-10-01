@@ -18,3 +18,7 @@ HANDOFF.md
 .env
 .env.*
 *.derek.json
+profiles/
+.claude/
+.config/
+SESSION_CLOSEOUT.md
